@@ -1,28 +1,103 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=900&vCenter=true&width=500&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Chirayu+Khandelwal;Nice+to+meet!+%3A%7D)](https://git.io/typing-svg)
 
-<h1 align="center">👋 Hi, I'm Chirayu Khandelwal!</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirayu-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="chirayu-khandelwal" />
-</p>
 
 <h1 align="center">
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=chirayu-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="chirayu-khandelwal" />
+  </p>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=30&duration=900&pause=900&width=500&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Chirayu+Khandelwal;Nice+to+meet+you!+%3A)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2100&pause=900&color=38C2FF&center=true&vCenter=true&width=500&lines=Hello%2C+There!++%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;This+is+Chirayu+Khandelwal;Nice+to+meet!+%3A)" 
+    alt="Typing SVG" />
   </a>
 </h1>
 
----
+### 
 
-### 💻 About Me
+💻 About Me
 
 <p align="center">
   I'm a passionate Computer Engineer from Mumbai, India, with a strong interest in <br> Web Development, Blockchain, and Data Structures & Algorithms. <br> I love coding, exploring new technologies, and building innovative solutions. 🚀
 </p>
 
+## 🧐 About
+
+<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with latest tech available😄
+</h3>
+
+<br>
+
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+### I am a Full Stack Developer at Helium
+- 🌱 I’m currently learning Backend Development.
+- 👯 I’m looking to collaborate with other Developers :wink:
+- 🥅 2024 Goals: Contribute to Open Source projects
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</br>
+
+### 
+
+
+<!-- GitHub Badges -->
+<p align="center">
+    <a href="https://github.com/mouryasujit">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/mouryasujit?affiliations=OWNER&color=yellow&label=GitHub%20Stars&logo=github&style=flat">
+    </a>
+    <a href="https://twitter.com/sujitkumar200">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sujitkumar200?logo=twitter&style=flat&color=1DA1F2">
+    </a>
+    <a href="https://medium.com/@mouryasujit04">
+        <img alt="Medium Articles" src="https://img.shields.io/badge/Medium-Articles%20Available-black?logo=medium&style=flat">
+    </a>
+</p>
+
+<!-- Profile Heading -->
+<h1 align="center">Hi 👋, I'm Sujitkumar Mourya</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mouryasujit&label=Profile%20Views&color=blue&style=flat" alt="mouryasujit profile views">
+</p>
+
+<!-- About Me Section -->
+- 👨‍💻 Explore my work on my **[Portfolio](https://portfolio-public.onrender.com/)**  
+- 📝 I write blogs on **[Medium](https://medium.com/@mouryasujit04)**  
+- 💬 Ask me about **MERN Stack, C++, Blockchain, and Python**  
+- 📫 Reach me at: **mouryasujit04@gmail.com**  
+- 📄 Check out my experiences: **[Portfolio](https://sujitkumarmourya.vercel.app/)**  
+
 ---
 
-### 🌟 Skills & Tools
+<h3 align="center">🌟 Connect with me 🌟</h3>
+<p align="center">
+    <a href="https://twitter.com/sujitkumar200" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30">
+    </a>
+    <a href="https://www.linkedin.com/in/sujitkumar-mourya-9640a523a/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
+    </a>
+    <a href="https://medium.com/@mouryasujit04" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30">
+    </a>
+    <a href="https://www.leetcode.com/sujit_kumar-01" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/mouryasujit041" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" width="30" height="30">
+    </a>
+</p>
+
+
+
+🌟 Skills & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="30" />
@@ -81,6 +156,11 @@
 
 ### 🏆 GitHub Trophies
 
+<h3 align="center">🎯 Fun Stats 🎯</h3>
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouryasujit&theme=dracula&area=true" alt="Contribution Graph" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chirayu-khandelwal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
@@ -107,4 +187,14 @@
   <img src="https://visitcount.itsvg.in/api?id=chirayu-khandelwal&icon=0&color=0" alt="Visit Count" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<details align="center">
+  <summary font-weight="bold" ><h3>  📊 GitHub Stats 📊 </h3></summary>
+  <br />  
+    
+![](https://github-readme-stats.vercel.app/api?username=shlok-2003&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shlok-2003&theme=jolly&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=shlok-2003&limit=5&theme=jolly&hide_border=false&combine_all_yearly_contributions=true)
+
+ <br>
+</details>
