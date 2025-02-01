@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=chirayu-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="chirayu-khandelwal" />
@@ -20,12 +17,7 @@
   I'm a passionate Computer Engineer from Mumbai, India, with a strong interest in <br> Web Development, Blockchain, and Data Structures & Algorithms. <br> I love coding, exploring new technologies, and building innovative solutions. 🚀
 </p>
 
-## 🧐 About
-
-<h3 align="center">A passionate Full-Stack Developer. Love to build Mobile and Web Applications with latest tech available😄
-</h3>
-
-<br>
+---
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
@@ -47,32 +39,16 @@
 
 <!-- GitHub Badges -->
 <p align="center">
-    <a href="https://github.com/mouryasujit">
-        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/mouryasujit?affiliations=OWNER&color=yellow&label=GitHub%20Stars&logo=github&style=flat">
+    <a href="https://github.com/chirayu-khandelwal">
+        <img alt="GitHub Stars" src="https://img.shields.io/github/stars/chirayu-khandelwal?affiliations=OWNER&color=yellow&label=GitHub%20Stars&logo=github&style=flat">
     </a>
-    <a href="https://twitter.com/sujitkumar200">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sujitkumar200?logo=twitter&style=flat&color=1DA1F2">
+    <a href="https://x.com/chirayu7k">
+        <img alt="X Follow" src="https://img.shields.io/twitter/follow/chirayu-khandelwal?logo=twitter&style=flat&color=1DA1F2">
     </a>
-    <a href="https://medium.com/@mouryasujit04">
+    <a href="https://medium.com/@chirayu-khandelwal">
         <img alt="Medium Articles" src="https://img.shields.io/badge/Medium-Articles%20Available-black?logo=medium&style=flat">
     </a>
 </p>
-
-<!-- Profile Heading -->
-<h1 align="center">Hi 👋, I'm Sujitkumar Mourya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mouryasujit&label=Profile%20Views&color=blue&style=flat" alt="mouryasujit profile views">
-</p>
-
-<!-- About Me Section -->
-- 👨‍💻 Explore my work on my **[Portfolio](https://portfolio-public.onrender.com/)**  
-- 📝 I write blogs on **[Medium](https://medium.com/@mouryasujit04)**  
-- 💬 Ask me about **MERN Stack, C++, Blockchain, and Python**  
-- 📫 Reach me at: **mouryasujit04@gmail.com**  
-- 📄 Check out my experiences: **[Portfolio](https://sujitkumarmourya.vercel.app/)**  
 
 ---
 
