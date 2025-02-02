@@ -32,10 +32,12 @@
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </br>
 
 ### 
-
 
 <!-- GitHub Badges -->
 <p align="center">
@@ -52,26 +54,14 @@
 
 ---
 
-<h3 align="center">🌟 Connect with me 🌟</h3>
+<h3 align="center">🌐 Connect with me 🌟</h3>
 <p align="center">
-    <a href="https://twitter.com/sujitkumar200" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30">
-    </a>
-    <a href="https://www.linkedin.com/in/sujitkumar-mourya-9640a523a/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30">
-    </a>
-    <a href="https://medium.com/@mouryasujit04" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="30" height="30">
-    </a>
-    <a href="https://www.leetcode.com/sujit_kumar-01" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30">
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/mouryasujit041" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" width="30" height="30">
-    </a>
-</p>
-
-
+    <a href="https://dev.to/lightshadow03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lightshadow03" height="30" width="40" /></a>
+    <a href="https://twitter.com/chirayu7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chirayu7k" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/chirayukhandelwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirayukhandelwal/" height="30" width="40" /></a>
+    <a href="https://medium.com/@chirayu-khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chirayu-khandelwal" height="30" width="40" /></a>
+    <a href="https://discord.gg/bEa8gp3Ez9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LIghtshadows" height="30" width="40" /></a>
+    <a href="mailto:chirayu07khandelwal@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" height="30" width="30" /></a>
 
 🌟 Skills & Tools
 
@@ -89,18 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" height="30" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirayu-khandelwal&theme=radical" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirayu-khandelwal&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
+<!-- 
 ### ✨ Projects
 
 <p align="center">
@@ -112,42 +91,7 @@
   </a>
 </p>
 
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chirayu-khandelwal/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://github.com/chirayu-khandelwal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" />
-  </a>
-  <a href="mailto:chirayu07khandelwal@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<h3 align="center">🎯 Fun Stats 🎯</h3>
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mouryasujit&theme=dracula&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chirayu-khandelwal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+-->
 
 ---
 
@@ -159,18 +103,33 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=chirayu-khandelwal&icon=0&color=0" alt="Visit Count" />
+<details align="center">
+  <summary font-weight="bold" ><h3>  🏆 GitHub Stats and Trophies 📊 </h3></summary>
+  <br />  
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirayu-khandelwal&theme=radical" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirayu-khandelwal&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirayu-khandelwal&theme=dracula&area=true" alt="Contribution Graph" />
+</p>
 
-<details align="center">
-  <summary font-weight="bold" ><h3>  📊 GitHub Stats 📊 </h3></summary>
-  <br />  
-    
-![](https://github-readme-stats.vercel.app/api?username=shlok-2003&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shlok-2003&theme=jolly&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=shlok-2003&limit=5&theme=jolly&hide_border=false&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chirayu-khandelwal&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
  <br>
 </details>
+
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
