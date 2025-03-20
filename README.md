@@ -1,33 +1,4 @@
 <!-- ====================================== -->
-<!--         Profile Metrics Section        -->
-<!-- ====================================== -->
-<p align="left">
-    <!-- Profile View Counter (Komarev Service) -->
-  <a href="https://github.com/chirayu-khandelwal">    
-    <img src="https://komarev.com/ghpvc/?username=chirayu-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="chirayu-khandelwal" />
-  </a>
-    <!-- GitHub Stars Counter -->
-   <a href="https://github.com/chirayu-khandelwal">
-     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/chirayu-khandelwal?affiliations=OWNER&color=yellow&label=GitHub%20Stars&logo=github&style=flat">
-   </a>
-    <!-- Monthly Commits Counter (Pufler Badges) -->
-   <a href="https://github.com/chirayu-khandelwal">
-       <img src="https://badges.pufler.dev/commits/monthly/chirayu-khandelwal"/>
-   </a>
-</p>
-<br>
-
-<!-- ====================================== -->
-<!--      Commented-Out Metrics Section     -->
-<!-- ====================================== -->
-<!-- 
-<p align="center">
-  <img src="https://metrics.lecoq.io/aakashsh1999?template=terminal&config.timezone=Asia%2FCalcutta" alt="aakashsh1999"
-  <img src="https://github.com/chirayu-khandelwal/chirayu-khandelwal/blob/output/github-contribution-grid-snake.svg" />
-</p>
--->
-
-<!-- ====================================== -->
 <!--        Typing Animation Header         -->
 <!-- ====================================== -->
 <p align="center">
@@ -120,8 +91,14 @@
 -->
 
 ### My Blog posts
+
+<a href="https://chirayu-khandelwal.medium.com/"> <img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium"> </a>
+
 <!-- BLOG-POST-LIST:START -->
 - [Hello World: A Newbie’s Guide to Failing Spectacularly in Tech](https://chirayu-khandelwal.medium.com/hello-world-a-newbies-guide-to-failing-spectacularly-in-tech-1dfd9481c1cf?source=rss-6886de8a2a89------2)
+
+<a href="https://chirayu-khandelwal.medium.com/"> <img alt="Medium" src="https://img.shields.io/badge/dev.to-black?logo=dev.to"> </a>
+
 - [Hello World: A Newbie’s Guide to Failing Spectacularly in Tech](https://dev.to/lightshadow03/hello-world-a-newbies-guide-to-failing-spectacularly-in-tech-4e9o)
 <!-- BLOG-POST-LIST:END -->
 
@@ -132,7 +109,10 @@
   <br/>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirayu-khandelwal&theme=radical"                                                     alt="GitHub Streak" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirayu-khandelwal&layout=compact&theme=radical                                alt="Top Languages" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirayu-khandelwal&layout=compact&theme=radical"                               alt="Top Languages" height="150" />
+    <!--
+      <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" alt="GitHub Stats" height="180" /> 
+    -->
     <img src="https://github-contributor-stats.vercel.app/api?username=chirayu-khandelwal&limit=5&theme=dark&combine_all_yearly_contributions=true"        alt="Top Contributed Repo" height="180" />
     <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show_icons=true&theme=radical"                                        alt="GitHub Stats" height="180" /> 
     <img src="https://github-profile-trophy.vercel.app/?username=chirayu-khandelwal&theme=radical&no-frame=false&no-bg=true&margin-w=4"                    alt="GitHub Trophies"  height="180" />
