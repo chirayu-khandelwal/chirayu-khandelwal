@@ -96,9 +96,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello World: A Newbie’s Guide to Failing Spectacularly in Tech](https://chirayu-khandelwal.medium.com/hello-world-a-newbies-guide-to-failing-spectacularly-in-tech-1dfd9481c1cf?source=rss-6886de8a2a89------2)
-
-<a href="https://chirayu-khandelwal.medium.com/"> <img alt="Medium" src="https://img.shields.io/badge/dev.to-black?logo=dev.to"> </a>
-
 - [Hello World: A Newbie’s Guide to Failing Spectacularly in Tech](https://dev.to/lightshadow03/hello-world-a-newbies-guide-to-failing-spectacularly-in-tech-4e9o)
 <!-- BLOG-POST-LIST:END -->
 
