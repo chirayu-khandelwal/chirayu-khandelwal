@@ -1,14 +1,16 @@
 name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 0 * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "5"
-                feed_list: "https://dev.to/feed/lightshadow03, https://chirayu-khandelwal.medium.com/feed, https://lightshadow.substack.com/feed"
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with Latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://dev.to/feed/lightshadow03, https://chirayu-khandelwal.medium.com/feed, https://lightshadow.substack.com/feed"
