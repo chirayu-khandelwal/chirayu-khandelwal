@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://dev.to/feed/lightshadow03, https://chirayu-khandelwal.medium.com/feed, https://rss.app/feeds/ewGWmJVkbvnTK5Af.xml"
+          feed_list: "https://dev.to/feed/lightshadow03, https://chirayu-khandelwal.medium.com/feed "
