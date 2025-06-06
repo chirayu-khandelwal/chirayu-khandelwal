@@ -17,11 +17,12 @@
 <!-- Right-aligned Animated GIF with Bullet Points -->
 <p align="center">
   <img align="right" margin-top="20px" height="240px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
+  
+  🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    ![visitors](https://profile-counter.glitch.me/chirayu-khandelwal/count.svg)
 - I'm a passionate Computer Engineer from Mumbai, India
 - 🌐 Strong Interest: Web Development, Blockchain.
-- 🚀 I love solving, exploring new technologies, and building innovative solutions. 
-- 🌱 I’m currently learning Backend Development.
+- 🚀 I love solving, exploring new technologies,and building innovative solutions. <!-- - 🌱 I’m currently learning .-->
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2025 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
