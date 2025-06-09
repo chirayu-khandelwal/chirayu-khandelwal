@@ -41,7 +41,7 @@
     <a href="https://dev.to/lightshadow03" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"             alt="lightshadow03" height="30" width="40" /></a>
     <!-- Twitter Profile -->
-    <a href="https://twitter.com/chirayu7k" target="blank">
+    <a href="https://x.com/lightshadow_03" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"           alt="chirayu7k" height="30" width="40" /></a>
     <!-- LinkedIn Profile -->
     <a href="https://linkedin.com/in/chirayukhandelwal/" target="blank">
