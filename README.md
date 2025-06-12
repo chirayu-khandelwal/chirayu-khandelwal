@@ -117,7 +117,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirayu-khandelwal&theme=radical"                                                     alt="GitHub Streak" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chirayu-khandelwal&layout=compact&theme=radical"                               alt="Top Languages" height="150" />
     <!--
-      <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" alt="GitHub Stats" height="180" /> 
+      <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical" alt="GitHub Stats" height="150" /> 
     -->
     <img src="https://github-contributor-stats.vercel.app/api?username=chirayu-khandelwal&limit=5&theme=dark&combine_all_yearly_contributions=true"        alt="Top Contributed Repo" height="180" />
     <img src="https://github-readme-stats.vercel.app/api?username=chirayu-khandelwal&show_icons=true&theme=radical"                                        alt="GitHub Stats" height="180" /> 
